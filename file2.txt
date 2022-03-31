@@ -1,1 +1,1 @@
-Este es un ejemplo de file2.txt
+Este es un ejemplito de file2.txt
